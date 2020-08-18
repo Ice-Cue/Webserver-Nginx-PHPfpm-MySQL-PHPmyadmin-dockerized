@@ -7,4 +7,4 @@
         exit('Connection failed: '.mysqli_connect_error().PHP_EOL);
     }
      
-    echo 'Successful database connection!'.PHP_EOL;
+    echo 'Yes... Successful database connection!'.PHP_EOL;
